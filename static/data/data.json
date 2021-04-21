@@ -1,0 +1,3630 @@
+{
+    "stores": [
+        {
+            "title": "Terremoto Bike",
+            "slug": "terremoto-bike",
+            "logo": "https://cremona.domicilio.app/app/uploads/2021/01/83518619_107143204377759_3300897700377156164_n.png-150x150.jpg",
+            "phone": "3516440886",
+            "address": {
+                "street": "Viale Trento e Trieste 130",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": "terremotobike@gmail.com",
+            "website": null,
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": "3516440886",
+            "online_reservations": [
+                {
+                    "site": null
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Bonemerse",
+                            "slug": "bonemerse"
+                        },
+                        {
+                            "title": "Castelverde",
+                            "slug": "castelverde"
+                        },
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        },
+                        {
+                            "title": "Malagnino",
+                            "slug": "malagnino"
+                        },
+                        {
+                            "title": "Pieve San giacomo",
+                            "slug": "pieve-san-giacomo"
+                        },
+                        {
+                            "title": "Stagno Lombardo",
+                            "slug": "stagno-lombardo"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "Da lunedì a venerdì"
+                    ]
+                },
+                "minimum_expense": "0",
+                "delivery_cost": "10"
+            },
+            "payment_options": [
+                "contanti",
+                "carta di credito",
+                "bancomat",
+                "bonifico"
+            ],
+            "prepayment": "false",
+            "description": "<p>Contattaci telefonicamente o mandando un messaggio su whatsapp. Offriamo un servizio a domicilio per il recupero e successivamente per la consegna della vostra bicicletta.<br><br>I nostri servizi:",
+            "gallery": [
+                "https://cremona.domicilio.app/app/uploads/2021/01/123913207_167550271670385_8470091652886318559_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2021/01/132284742_195949358830476_8433009662790637328_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2021/01/123780890_167269661698446_1445810096459978133_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2021/01/123550434_166680085090737_6577489658857815576_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2021/01/123190983_165407895217956_3120159619709518905_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2021/01/123105421_165010795257666_189657964454929560_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2021/01/115912036_132099588548787_7920748790930945152_o.jpg",
+                "https://cremona.domicilio.app/app/uploads/2021/01/122427382_163122522113160_8885521568189190224_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2021/01/113458888_132099528548793_5370422673786541980_o.jpg"
+            ],
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "Riparazione biciclette di ogni tipo (corsa, classiche, pedalata assistita, vintage)",
+                    "Restauro biciclette d’epoca",
+                    "Vendita biciclette usate",
+                    "Riparazione monopattini elettrici"
+                ]
+            },
+            "category": [
+                {
+                    "title": "Hobby/Tempo libero",
+                    "slug": "hobby-tempo-libero"
+                },
+                {
+                    "title": "Veicoli",
+                    "slug": "veicoli"
+                }
+            ]
+        },
+        {
+            "title": "Softworld Snc",
+            "slug": "softworld-snc",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/12/100522634_3261911107163623_6116471739506491392_n-150x150.jpg",
+            "phone": "037233773",
+            "address": {
+                "street": "Corso XX Settembre, 67",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": "softworld@softworld.info",
+            "website": null,
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": "037233773",
+            "online_reservations": [
+                {
+                    "site": null
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Bonemerse",
+                            "slug": "bonemerse"
+                        },
+                        {
+                            "title": "Castelverde",
+                            "slug": "castelverde"
+                        },
+                        {
+                            "title": "Cella Dati",
+                            "slug": "cella-dati"
+                        },
+                        {
+                            "title": "Cicognolo",
+                            "slug": "cicognolo"
+                        },
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        },
+                        {
+                            "title": "Malagnino",
+                            "slug": "malagnino"
+                        },
+                        {
+                            "title": "Pieve d'Olmi",
+                            "slug": "pieve-d-olmi"
+                        },
+                        {
+                            "title": "Sospro",
+                            "slug": "sospiro"
+                        },
+                        {
+                            "title": "Stagno Lombardo",
+                            "slug": "stagno-lombardo"
+                        },
+                        {
+                            "title": "Vescovato",
+                            "slug": "vescovato"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "lunedì",
+                        "mercoledì",
+                        "venerdì"
+                    ]
+                },
+                "minimum_expense": "10",
+                "delivery_cost": "1,50"
+            },
+            "payment_options": [
+                "contanti",
+                "carta di credito",
+                "bancomat",
+                "bonifico",
+                "satispay",
+                "paypal"
+            ],
+            "prepayment": "false",
+            "description": "<p>Softworld è un negozio di vendita e riparazione PC e accessori. Contattaci telefonicamente o tramite whatsapp per ricevere direttamente a casa:</p>",
+            "gallery": [
+                "https://picsum.photos/700/500",
+                "https://picsum.photos/700/500",
+                "https://picsum.photos/700/500"
+            ],
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "Consumabili",
+                    "Toner",
+                    "Cartucce",
+                    "Stampanti",
+                    "Notebook",
+                    "Personal Computer",
+                    "Accessori Computer"
+                ]
+            },
+            "category": [
+                {
+                    "title": "Elettronica",
+                    "slug": "elettronica"
+                }
+            ]
+        },
+        {
+            "title": "La locanda dei taglieri e bicchieri",
+            "slug": "la-locanda-dei-taglieri-e-bicchieri",
+            "logo": "https://cremona.domicilio.app/app/uploads/2021/02/Pappardelle-al-sugo-di-lepre-150x150.png",
+            "phone": "3516908498",
+            "address": {
+                "street": "Strada Sabbionetana 20 b",
+                "cap": "26041",
+                "municipality": "Casalmaggiore",
+                "province": "CR"
+            },
+            "email": "ussialan890@gmail.com",
+            "website": null,
+            "social": {
+                "facebook": null,
+                "instagram": null
+            },
+            "whatsapp": "3516908498",
+            "online_reservations": [
+                {
+                    "site": null
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Casalmaggiore",
+                            "slug": "casalmaggiore"
+                        },
+                        {
+                            "title": "Martignana di Po",
+                            "slug": "martignana-di-po"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "Tutti i giorni tranne Martedì",
+                        "Dalle 19 alle 23"
+                    ]
+                },
+                "minimum_expense": "15",
+                "delivery_cost": "4"
+            },
+            "payment_options": [
+                "contanti",
+                "carta di credito"
+            ],
+            "prepayment": "false",
+            "description": "<p>Per consegna a Viadana spese di trasporto gratuite superiore a 35 euro.<br>Casalmaggiore gratuite con spesa superiore alle 18 euro</p>",
+            "gallery": [],
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "Hamburger vario genere",
+                    "Tortelli",
+                    "Tigelle con salumi",
+                    "Fritture miste ad aria"
+                ]
+            },
+            "category": [
+                {
+                    "title": "Ristorazione",
+                    "slug": "ristorazione"
+                }
+            ]
+        },
+        {
+            "title": "Trattoria la Resca",
+            "slug": "trattoria-la-resca",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/12/laresca-150x150.png",
+            "phone": "0372830627",
+            "address": {
+                "street": "Via Padana inferiore 7",
+                "cap": "26039",
+                "municipality": "Vescovato",
+                "province": "CR"
+            },
+            "email": "info@trattorialaresca.it",
+            "website": "url sito web",
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": "3516908498",
+            "online_reservations": [
+                {
+                    "site": null
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Casalmaggiore",
+                            "slug": "casalmaggiore"
+                        },
+                        {
+                            "title": "Martignana di Po",
+                            "slug": "martignana-di-po"
+                        }
+                    ],
+                    "delivery_days_times": null
+                },
+                "minimum_expense": null,
+                "delivery_cost": null
+            },
+            "payment_options": [],
+            "prepayment": "false",
+            "description": "<p>Trattoria la Resca arriva direttamente a casa tua. Contattaci telefonicamente o con un messaggio su whatsapp per prenotare il tuo menù, perfetto per ogni occasione. Ti chiediamo di avvisarci entro le ore 20 del giorno precedente la consegna.<br><br>I nostri piatti esaltano le tipicità della zona, sono preparati in maniera tradizionale utilizzando solo prodotti selezionati e provenienti da fornitori storici e di fiducia.<br><br>Guarda i nostri suggerimenti per il Menù delle feste natalizie 2020:</p>",
+            "gallery": [
+                "https://cremona.domicilio.app/app/uploads/2020/12/127948540_2871468769750866_1832113259924244157_o.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/12/128100692_2871472406417169_8516021645467332002_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/12/128647311_2871473056417104_820289561749734996_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/12/128350253_2871469439750799_8643499413540451089_o.jpg"
+            ],
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": null
+            },
+            "category": [
+                {
+                    "title": "Ristorazione",
+                    "slug": "ristorazione"
+                }
+            ]
+        },
+        {
+            "title": "UGO GRILL",
+            "slug": "ugo-grill",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/05/97347835_10156703106196895_8027304446138515456_o-150x150.png",
+            "phone": "037220354",
+            "address": {
+                "street": "Via Gramsci 13",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": "ugogrill.cremona@gmail.com",
+            "website": "https://ugogrill.it",
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": "037220354",
+            "online_reservations": [
+                {
+                    "site": "https://ugogrill.it/tramezzini"
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Bosco ex Parmigiano",
+                            "slug": "bosco-ex-parmigiano"
+                        },
+                        {
+                            "title": "Castelverde",
+                            "slug": "castelverde"
+                        },
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        },
+                        {
+                            "title": "Persico Dosimo",
+                            "slug": "persico-dosimo"
+                        },
+                        {
+                            "title": "Sospiro",
+                            "slug": "sospiro"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "Da lunedì alla domenica"
+                    ]
+                },
+                "minimum_expense": "10",
+                "delivery_cost": "0"
+            },
+            "payment_options": [
+                "contanti",
+                "carta di credito",
+                "bancomat",
+                "satispay"
+            ],
+            "prepayment": "false",
+            "description": "<p>Contattaci chiamandoci o mandando un messaggio su whatsapp per ricevere direttamente a casa i tramezzini che preferisci. Puoi anche prenotare i tramezzini direttamente dal sito internet.<br>Consigliamo di prenotare almeno un’ora prima della prevista consegna.<br>Le consegne avvengono dalle ore 11 alle ore 20:30.<br><br>Ugo Grill garantisce la qualità degli ingredienti e materie prime, a partire dalla maionese fatta in casa, e dal pane consegnato fresco più volte al giorno.<br><br>Puoi ordinare:</p>",
+            "gallery": [
+                "https://cremona.domicilio.app/app/uploads/2020/05/Parmigiana@2x.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/05/Tonno_Uova-2048x2048.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/05/Burratino@2x.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/05/Azzardo@2x.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/05/Prosciutto_Funghi@2x.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/05/Zucchine_Gamberetti@2x.jpg"
+            ],
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "Tramezzini",
+                    "Marubini Fioni, Ugo Grill fa da rivendita",
+                    "Bevande"
+                ]
+            },
+            "category": [
+                {
+                    "title": "Alimentari",
+                    "slug": "alimentari"
+                },
+                {
+                    "title": "Bar",
+                    "slug": "bar"
+                },
+                {
+                    "title": "Panetteria",
+                    "slug": "panetteria"
+                }
+            ]
+        },
+        {
+            "title": "Birra e Gusto",
+            "slug": "birra-e-gusto",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/06/BeGTDD-150x150.jpg",
+            "phone": "3484057297",
+            "address": {
+                "street": "Viale Po 129",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": "chiara@birraegusto.it",
+            "website": "https://birraegusto.it",
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": "3484057297",
+            "online_reservations": [
+                {
+                    "site": "https://birraegusto.it/takeaway"
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Castelverde Pacentino PC",
+                            "slug": "castelverde-piacentino-pc"
+                        },
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "Tutti i giorni"
+                    ]
+                },
+                "minimum_expense": "20",
+                "delivery_cost": "0"
+            },
+            "payment_options": [
+                null
+            ],
+            "prepayment": "false",
+            "description": "<p>Contattaci mandando un messaggio su whatsapp o tramite chiamata, puoi scegliere tra il servizio a domicilio, il servizio prendi e porta via o il servizio al tavolo.<br>Birra selezionata, spillatura come in birrificio. Secondi piatti con carne di prima scelta direttamente dal nostro macellaio di fiducia Roby! Puoi ordinare:</p>",
+            "gallery": [
+                "https://cremona.domicilio.app/app/uploads/2020/06/BeG3.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/06/BeG2.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/06/BeG1.jpg"
+            ],
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "Birra alla spina",
+                    "Hamburger",
+                    "Secondi piatti"
+                ]
+            },
+            "category": [
+                {
+                    "title": "Bar",
+                    "slug": "bar"
+                },
+                {
+                    "title": "Bevande",
+                    "slug": "bevande"
+                },
+                {
+                    "title": "Pizzeria",
+                    "slug": "pizzeria"
+                },
+                {
+                    "title": "Ristorazione",
+                    "slug": "ristorazione"
+                }
+            ]
+        },
+        {
+            "title": "Zona Cambio",
+            "slug": "zona-cambio",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/12/56279995_533750033815680_8287029502303797248_o-1-e1607447362914-150x150.jpg",
+            "phone": "393 2066906",
+            "address": {
+                "street": "Via Mercatello 3",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": "giorgio.gpalazzi@gmail.com",
+            "website": null,
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": "393 2066906",
+            "online_reservations": [
+                {
+                    "site": null
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        }
+                    ],
+                    "delivery_days_times": null
+                },
+                "minimum_expense": "0",
+                "delivery_cost": "0"
+            },
+            "payment_options": [
+                null
+            ],
+            "prepayment": "false",
+            "description": "<p>Contattaci telefonicamente o sui canali social, sapremo consigliarti il capo adatto alle tue esigenze sportive. Da noi puoi trovare abbigliamento sportivo e accessori per:</p>",
+            "gallery": [
+                "https://cremona.domicilio.app/app/uploads/2020/12/118691355_905026866687993_5096207884599332106_o.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/12/118654110_906832033174143_6183081471928266108_o.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/12/118825934_910399022817444_2975556194074465917_o.jpg"
+            ],
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "il nuoto",
+                    "la corsa",
+                    "il ciclismo",
+                    "il triathlon",
+                    "possibilità di noleggio mute"
+                ]
+            },
+            "category": [
+                {
+                    "title": "Abbigliamento",
+                    "slug": "abbigliamento"
+                },
+                {
+                    "title": "Hobby / Tempo libero",
+                    "slug": "hobby-tempo-libero"
+                }
+            ]
+        },
+        {
+            "title": "Agriculturismo Le Campagnole",
+            "slug": "agriculturismo-le-campagnole",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/05/D69BF58D-DCDD-42A8-BF44-D71A4F609C68-150x150.jpeg",
+            "phone": "333 6414180",
+            "address": {
+                "street": "Cascina campagnola 10",
+                "cap": "26100",
+                "municipality": "Milzano",
+                "province": "BS"
+            },
+            "email": "info@lecampagnole.it",
+            "website": "https://www.lecampagnole.it",
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": "333 6414180",
+            "online_reservations": [
+                {
+                    "site": null
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Castelverde",
+                            "slug": "castelverde"
+                        },
+                        {
+                            "title": "Cella Dati",
+                            "slug": "cella-dati"
+                        },
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        },
+                        {
+                            "title": "Malagnino",
+                            "slug": "malagnino"
+                        },
+                        {
+                            "title": "Pieve San Giacomo",
+                            "slug": "pieve-san-giacomo"
+                        },
+                        {
+                            "title": "Sospiro",
+                            "slug": "sospiro"
+                        },
+                        {
+                            "title": "Vescovato",
+                            "slug": "vescovato"
+                        },
+                        {
+                            "title": "Volongo",
+                            "slug": "volongo"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "Da lunedì alla domenica mattina"
+                    ]
+                },
+                "minimum_expense": "30",
+                "delivery_cost": "0"
+            },
+            "payment_options": [
+                "contanti"
+            ],
+            "prepayment": "false",
+            "description": "<p>Agriturismo Le Campagnole porta a casa vostra i prodotti a km 0. Contattaci chiamandoci o inviando un messaggio su whatsapp.<br><br>Ti porteremo direttamente a casa:</p>",
+            "gallery": [
+                "https://cremona.domicilio.app/app/uploads/2020/05/E03D6E86-9275-4975-B06B-2A840E733FDC.png",
+                "https://cremona.domicilio.app/app/uploads/2020/05/0B90B8F4-3593-45AA-846D-36B4A0108286.png",
+                "https://cremona.domicilio.app/app/uploads/2020/05/BC56D461-C793-4BCA-9E1D-B38AC7BC98AB.png"
+            ],
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "mozzarelle e burrate fatte a mano",
+                    "ricotta",
+                    "formaggi stagionati",
+                    "gelato artigianale",
+                    "yogurt",
+                    "latte pastorizzato",
+                    "carne del nostro allevamento",
+                    "piatti pronti come lasagne crespelle ecc.",
+                    "affettati",
+                    "tanto altro!!!"
+                ]
+            },
+            "category": [
+                {
+                    "title": "Alimentari",
+                    "slug": "alimentari"
+                },
+                {
+                    "title": "Gelateria",
+                    "slug": "gelateria"
+                },
+                {
+                    "title": "Macelleria",
+                    "slug": "macelleria"
+                },
+                {
+                    "title": "Ristorazione",
+                    "slug": "ristorazione"
+                }
+            ]
+        },
+        {
+            "title": "Atelier Gomitoli",
+            "slug": "atelier-gomitoli",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/04/20171030_165240-150x150.jpg",
+            "phone": "338 2802699",
+            "address": {
+                "street": "Corso Matteotti 90",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": "monimoni64@gmail.com",
+            "website": null,
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": "338 2802699",
+            "online_reservations": [
+                {
+                    "site": null
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "Martedì",
+                        "giovedì",
+                        "venerdì"
+                    ]
+                },
+                "minimum_expense": "0",
+                "delivery_cost": "0"
+            },
+            "payment_options": [
+                "contanti",
+                "Bancomat",
+                "bonifico"
+            ],
+            "prepayment": "false",
+            "description": "<p>Contattaci telefonicamente e richiedi i tuoi gomitoli, organizzeremo il giorno di consegna insieme.<br><br>Puoi ordinare:</p>",
+            "gallery": [
+                "https://cremona.domicilio.app/app/uploads/2020/04/IMG_20200419_193641_196-2048x2048.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/20200421_161136-1536x2048.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/IMG_20200416_092000_841-2048x2048.jpg"
+            ],
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "Filati per aguglieria",
+                    "Ferri",
+                    "Uncinetti",
+                    "Piccola merceria",
+                    "Gomitoli"
+                ]
+            },
+            "category": [
+                {
+                    "title": "Casa",
+                    "slug": "casa"
+                },
+                {
+                    "title": "Hobby/Tempo libero",
+                    "slug": "hobby-tempo-libero"
+                }
+            ]
+        },
+        {
+            "title": "Mondolibri",
+            "slug": "mondolibri",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/04/029DF021-C801-41FF-A163-4ACFB9780CE7-150x150.jpeg",
+            "phone": "334 7021839",
+            "address": {
+                "street": "Corso Pietro Vacchelli 31",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": "negozio.cremona2@mondolibri.it",
+            "website": null,
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": "334 7021839",
+            "online_reservations": [
+                {
+                    "site": null
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "Da lunedi al sabato"
+                    ]
+                },
+                "minimum_expense": "0",
+                "delivery_cost": "0"
+            },
+            "payment_options": [
+                "contanti",
+                "Bancomat",
+                "bonifico"
+            ],
+            "prepayment": "false",
+            "description": "<p>Contattaci telefonicamente e richiedi i tuoi gomitoli, organizzeremo il giorno di consegna insieme.<br><br>Puoi ordinare:</p>",
+            "gallery": [
+                "https://cremona.domicilio.app/app/uploads/2020/04/IMG_20200419_193641_196-2048x2048.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/20200421_161136-1536x2048.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/IMG_20200416_092000_841-2048x2048.jpg"
+            ],
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "Filati per aguglieria",
+                    "Ferri",
+                    "Uncinetti",
+                    "Piccola merceria",
+                    "Gomitoli"
+                ]
+            },
+            "category": [
+                {
+                    "title": "Casa",
+                    "slug": "casa"
+                },
+                {
+                    "title": "Libreria",
+                    "slug": "libreria"
+                }
+            ]
+        },
+        {
+            "title": "Salutiamo Bistrot",
+            "slug": "salutiamo-bistrot",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/04/001.immagine.logo_.bistrot.definit-150x150.jpg",
+            "phone": null,
+            "address": {
+                "street": "Via S. Sebastiano 14",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": "ordini@olimpiasrl.net",
+            "website": "https://www.facebook.com/lapiccolaofficina.deigrandieventi/",
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": null,
+            "online_reservations": [
+                {
+                    "site": "https://smart.condivision.cloud/fl_app/smartapp/?q=MTIz"
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Bonemerse",
+                            "slug": "bonemerse"
+                        },
+                        {
+                            "title": "Castelverde",
+                            "slug": "castelverde"
+                        },
+                        {
+                            "title": "Castelvetro Piacentino PC",
+                            "slug": "castelvetro-piacentino-pc"
+                        },
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        },
+                        {
+                            "title": "Soresina",
+                            "slug": "soresina"
+                        },
+                        {
+                            "title": "Stagno Lombardo",
+                            "slug": "stagno-lombardo"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "Da lunedi al sabato"
+                    ]
+                },
+                "minimum_expense": "50",
+                "delivery_cost": "3"
+            },
+            "payment_options": [
+                "Carta di credito",
+                "Carte prepagate",
+                "PayPal"
+            ],
+            "prepayment": "false",
+            "description": "<p>Contattaci attraverso la pagina web. Prenotazione semplice e veloce attraverso un’app intuitiva e di facile utilizzo.<br>Offriamo la possibilità di contattarci in qualsiasi momento per chiarimenti e suggerimenti. Servizio di assistenza al cliente 7 su 7.<br><br>Nel nostro SHOP ONLINE potrete trovare:</p>",
+            "gallery": [
+                "https://cremona.domicilio.app/app/uploads/2020/04/IMG_20200419_193641_196-2048x2048.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/20200421_161136-1536x2048.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/IMG_20200416_092000_841-2048x2048.jpg"
+            ],
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "Prodotti artigianali ed i piatti preparati dai nostri cuochi",
+                    "Le nostre Ceste Speciali (offerte al prezzo di costo e senza costi di spedizione) per poter offrire il vostro contributo ad amici, persone in difficoltà, strutture di assistenza, dipendenti delle vostre realtà aziendali.",
+                    "I nostri Kids Party Box per rendere gradevoli, accattivanti e soprattutto semplici da realizzare le feste di compleanno dei vostri bimbi direttamente a casa vostra in questo momento così difficile (già complete di stuzzicheria, torta ed allestimento a tema)"
+                ]
+            },
+            "category": [
+                {
+                    "title": "Gastronomia",
+                    "slug": "gastronomia"
+                },
+                {
+                    "title": "Infanzia",
+                    "slug": "infanzia"
+                },
+                {
+                    "title": "Pasticceria",
+                    "slug": "pasticceria"
+                },
+                {
+                    "title": "Ristorazione",
+                    "slug": "ristorazione"
+                }
+            ]
+        },
+        {
+            "title": "LB30 NATURAL Concept Store",
+            "slug": "lb30-natural-concept-store",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/04/Logo-quadrato-negativo-150x150.jpg",
+            "phone": "342 1225803",
+            "address": {
+                "street": "Largo Boccaccino 30",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": "info@lb30natural.com",
+            "website": "https://www.LB30natural.com",
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": null,
+            "online_reservations": [
+                {
+                    "site": null
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "Da martedì al sabato"
+                    ]
+                },
+                "minimum_expense": "15",
+                "delivery_cost": "0"
+            },
+            "payment_options": [
+                "Contanti",
+                "Bonifico",
+                "PayPal"
+            ],
+            "prepayment": "false",
+            "description": "<p>Contattaci e ordina i prodotti del nostro concept store: ecosostenibili, artigianali, biologici e naturali. Puoi ordinare per telefono, SMS, Whatsapp o email.<br>Concorderemo insieme la consegna che, nel comune di Cremona, non ha alcun costo.<br><br>Ecco alcuni dei nostri prodotti:</p>",
+            "gallery": [
+                "https://cremona.domicilio.app/app/uploads/2020/04/06-cassa-lanterna-Kreafunk.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/02-gioiello-Nach.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/07-candela-WH-2048x630.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/08-prodotti-Aleppo-Najel-2048x667.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/10-solari-Coola.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/09-skin-care-Ecooking.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/04-bottiglia-Lund.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/03-orologio-Dolfi.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/05-sneakers-Womsh.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/01-t-shirt-Nach-copia.jpg"
+            ],
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "CURA CORPO: saponi di Aleppo, dentifrici, spazzolini in bambù, deodoranti, shampoo, skin-care, make-up, solari, profumi.",
+                    "ACCESSORI PERSONA e ABBIGLIAMENTO: orologi in legno fatti a mano, gioielli artigianali in porcellana, argento e gold plated, calze Happy Socks, t-shirt in cotone biologico per adulto e bimbo, sneakers artigianali uomo/donna, costumi da bagno, copricostumi e kimono, portafogli, borse e zaini, porta-laptop.",
+                    "CASA: candele profumate di soia e diffusori per ambiente, detersivi per bucato con sapone d’Aleppo, piattini e tazze in porcellana, sacchetti multiuso in cotone bio, borracce termiche, quaderni in materiali naturali e riciclati.",
+                    "TECNOLOGIA ed ELETTRONICA: power bank, caricatori ad induzione per smartphone, radio DAB+, diffusori audio wireless di diversa potenza, cuffie e auricolari wireless, lanterne wireless con cassa e sveglia."
+                ]
+            },
+            "category": [
+                {
+                    "title": "Abbigliamento",
+                    "slug": "abbigliamento"
+                },
+                {
+                    "title": "Casa",
+                    "slug": "casa"
+                },
+                {
+                    "title": "Cura del corpo",
+                    "slug": "cura-del-corpo"
+                },
+                {
+                    "title": "Elettronica",
+                    "slug": "elettronica"
+                },
+                {
+                    "title": "Infanzia",
+                    "slug": "infanzia"
+                }
+            ]
+        },
+        {
+            "title": "CANTINE MAINETTI",
+            "slug": "cantine-mainetti",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/05/13001065_841902229286477_6626786353479395434_n-150x150.jpg",
+            "phone": "0523 823096",
+            "address": {
+                "street": "Via Lombardi 10",
+                "cap": "26100",
+                "municipality": "Castelvetro Piacentino",
+                "province": "PC"
+            },
+            "email": "info@cantinemainetti.it",
+            "website": "https://www.cantinemainetti.it",
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": " 0523 823096",
+            "online_reservations": [
+                {
+                    "site": "http://www.cantinemainetti.it"
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "Da lunedì al venerdì",
+                        "sabato facoltativo"
+                    ]
+                },
+                "minimum_expense": "25",
+                "delivery_cost": "10"
+            },
+            "payment_options": [
+                "Contanti",
+                "Bonifico",
+                "Assegno"
+            ],
+            "prepayment": "false",
+            "description": "<p>Contattateci al numero indicato oppure via mail o mandandoci un messaggio su whatsapp e vi daremo le informazioni che volete.<br>Nell’arco dei tre giorni lavorativi arriviamo in consegna nel giorno e orario accordato.<br>Contattaci per avere informazioni sui nostri prodotti: vini fermi frizzanti e spumanti e su prenotazione birre, liquori, bevande.<br><br>La consegna è gratuita entro i 30 km, oltre il costo di consegna sarà di 10€.<br><br>Tra le nostre proposte:</p>",
+            "gallery": [
+                "https://cremona.domicilio.app/app/uploads/2020/05/74895967_1851481728328517_4833824707683811328_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/05/13062553_842547099221990_2250849648505920875_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/05/12249840_759346890875345_381412597899143559_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/05/13001065_841902229286477_6626786353479395434_n1.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/05/13151543_852697148206985_2786457290869206894_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/05/15267704_984263075050391_2097797563211991680_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/05/13178832_852704651539568_4489788935129856485_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/05/13781677_893894207420612_8778295381254604101_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/05/15873108_1015145501962148_2086745062762403337_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/05/13178553_852700128206687_3493140560765011903_n.jpg"
+            ],
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "Vini Piacentini nostra produzione",
+                    "Vini di tutte le regioni d'Italia",
+                    "Birre artigianali",
+                    "Liquori vari"
+                ]
+            },
+            "category": [
+                {
+                    "title": "Bevande",
+                    "slug": "bevande"
+                },
+                {
+                    "title": "Enoteca",
+                    "slug": "enoteca"
+                }
+            ]
+        },
+        {
+            "title": "SPAZIO UFFICIO SRL",
+            "slug": "spazio-ufficio-srli",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/04/Copertina-Spazio-Ufficio-2019-150x150.jpg",
+            "phone": "0372 452278",
+            "address": {
+                "street": "Via Rosario 4/A",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": "spazioufficio@fastpiu.it",
+            "website": "https://www.spazioufficiosrl.com",
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": "0372 452278",
+            "online_reservations": [
+                {
+                    "site": "http://www.cantinemainetti.it"
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Bonemerse",
+                            "slug": "bonemerse"
+                        },
+                        {
+                            "title": "Casalmaggiore",
+                            "slug": "casalmaggiore"
+                        },
+                        {
+                            "title": "Castelleone",
+                            "slug": "castelleone"
+                        },
+                        {
+                            "title": "Castelverde",
+                            "slug": "castelverde"
+                        },
+                        {
+                            "title": "Cella Dati",
+                            "slug": "cella-dati"
+                        },
+                        {
+                            "title": "Cicognolo",
+                            "slug": "cicognolo"
+                        },
+                        {
+                            "title": "Cingia De' Botti",
+                            "slug": "cingia-de-botti"
+                        },
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        },
+                        {
+                            "title": "Formigara",
+                            "slug": "formigara"
+                        },
+                        {
+                            "title": "Gussola",
+                            "slug": "gussola"
+                        },
+                        {
+                            "title": "Malagnino",
+                            "slug": "malagnino"
+                        },
+                        {
+                            "title": "Ostiano",
+                            "slug": "ostiano"
+                        },
+                        {
+                            "title": "Pescarolo",
+                            "slug": "pescarolo"
+                        },
+                        {
+                            "title": "Piadena",
+                            "slug": "piadena"
+                        },
+                        {
+                            "title": "Pieve San Giacomo",
+                            "slug": "pieve-san-giacomo"
+                        },
+                        {
+                            "title": "Soresina",
+                            "slug": "soresna"
+                        },
+                        {
+                            "title": "Sospiro",
+                            "slug": "sospiro"
+                        },
+                        {
+                            "title": "Stagno Lombardo",
+                            "slug": "stagno-lombardo"
+                        },
+                        {
+                            "title": "Vescovato",
+                            "slug": "vescovato"
+                        },
+                        {
+                            "title": "Volongo",
+                            "slug": "volongo"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "Da lunedì al venerdì"
+                    ]
+                },
+                "minimum_expense": "30",
+                "delivery_cost": "10"
+            },
+            "payment_options": [
+                "Contanti",
+                "Bonifico"
+            ],
+            "prepayment": "false",
+            "description": "<p>Siamo a disposizione per il servizio a domicilio, chiamaci al numero telefonico o tramite email per i tuoi ordini.<br>Siamo fornitori di materiale per ufficio e non solo. Il servizio di consegna viene effettuato in tutti i comuni della provincia di Cremona e anche nei comuni di Pontevico, Quinzano d’Oglio (Bs) e per i comuni di Castelvetro Piacentino e Monticelli d’Ongina (Pc).</p>",
+            "gallery": [
+                "https://cremona.domicilio.app/app/uploads/2020/04/80809335_1282766335264440_2924027229904044032_n.png",
+                "https://cremona.domicilio.app/app/uploads/2020/04/89334963_1336682076539532_979164771536338944_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/85065207_1606532029484528_6050323406287536128_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/83293_0912TST35_TIFF.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/2-SENZA-PREZZI.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/1-SENZA-PREZZI.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/90501748_1350112945196445_9014184091335000064_o.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/89767932_1345410082333398_8342092142679687168_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/Bacty-Gel.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/90384626_1350113118529761_1994555878522486784_n.jpg"
+            ],
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "carta",
+                    "cancelleria",
+                    "materiale scolastico",
+                    "cartucce e toner per stampanti",
+                    "prodotti per igiene personale",
+                    "detergenza professionale",
+                    "igienizzanti",
+                    "disinfettanti"
+                ]
+            },
+            "category": [
+                {
+                    "title": "Cartoleria",
+                    "slug": "cartoleria"
+                },
+                {
+                    "title": "Casa",
+                    "slug": "casa"
+                },
+                {
+                    "title": "Cura del corpo",
+                    "slug": "cura-del-corpo"
+                }
+            ]
+        },
+        {
+            "title": "Buttarelli Expert",
+            "slug": "buttarelli-expert",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/04/34688037_1805796766146292_3933932650040918016_n-150x150.jpg",
+            "phone": "0372 471107",
+            "address": {
+                "street": "Via Castelleonese 2",
+                "cap": "26100",
+                "municipality": "Castelverde",
+                "province": "CR"
+            },
+            "email": "buttarelli@fastpiu.it",
+            "website": null,
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": "0372 471107",
+            "online_reservations": [
+                {
+                    "site": "https://buttarelli.domex.it/catalogo.php?dest=001"
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Bonemerse",
+                            "slug": "bonemerse"
+                        },
+                        {
+                            "title": "Casalmaggiore",
+                            "slug": "casalmaggiore"
+                        },
+                        {
+                            "title": "Castelleone",
+                            "slug": "castelleone"
+                        },
+                        {
+                            "title": "Castelverde",
+                            "slug": "castelverde"
+                        },
+                        {
+                            "title": "Cella Dati",
+                            "slug": "cella-dati"
+                        },
+                        {
+                            "title": "Cicognolo",
+                            "slug": "cicognolo"
+                        },
+                        {
+                            "title": "Cingia De' Botti",
+                            "slug": "cingia-de-botti"
+                        },
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        },
+                        {
+                            "title": "Formigara",
+                            "slug": "formigara"
+                        },
+                        {
+                            "title": "Gussola",
+                            "slug": "gussola"
+                        },
+                        {
+                            "title": "Malagnino",
+                            "slug": "malagnino"
+                        },
+                        {
+                            "title": "Ostiano",
+                            "slug": "ostiano"
+                        },
+                        {
+                            "title": "Pescarolo",
+                            "slug": "pescarolo"
+                        },
+                        {
+                            "title": "Piadena",
+                            "slug": "piadena"
+                        },
+                        {
+                            "title": "Pieve San Giacomo",
+                            "slug": "pieve-san-giacomo"
+                        },
+                        {
+                            "title": "Soresina",
+                            "slug": "soresna"
+                        },
+                        {
+                            "title": "Sospiro",
+                            "slug": "sospiro"
+                        },
+                        {
+                            "title": "Stagno Lombardo",
+                            "slug": "stagno-lombardo"
+                        },
+                        {
+                            "title": "Vescovato",
+                            "slug": "vescovato"
+                        },
+                        {
+                            "title": "Volongo",
+                            "slug": "volongo"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "tutti i giorni su richiesta"
+                    ]
+                },
+                "minimum_expense": "0",
+                "delivery_cost": "Consegna a pagamento"
+            },
+            "payment_options": [
+                "Contanti",
+                "Carta",
+                "Bancomat",
+                "Bonifico"
+            ],
+            "prepayment": "false",
+            "description": "<p>Contattaci telefonicamente per richiedere informazioni o consigli sui prodotti. Per i grandi elettrodomestici il servizio a domicilio prevede anche il ritiro dell’usato.<br><br>Il costo di consegna è a pagamento, ma la cifra dipende dal prodotto scelto.<br><br>É attivo il sito web in cui poter scegliere i seguenti prodotti:</p>",
+            "gallery": [
+                "https://cremona.domicilio.app/app/uploads/2020/04/80809335_1282766335264440_2924027229904044032_n.png",
+                "https://cremona.domicilio.app/app/uploads/2020/04/89334963_1336682076539532_979164771536338944_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/85065207_1606532029484528_6050323406287536128_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/83293_0912TST35_TIFF.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/2-SENZA-PREZZI.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/1-SENZA-PREZZI.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/90501748_1350112945196445_9014184091335000064_o.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/89767932_1345410082333398_8342092142679687168_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/Bacty-Gel.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/90384626_1350113118529761_1994555878522486784_n.jpg"
+            ],
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "telefonia",
+                    "informatica",
+                    "tv-audio-foto",
+                    "elettrodomestici-clima",
+                    "piccoli elettrodomestici",
+                    "game-tempo libero",
+                    "casa"
+                ]
+            },
+            "category": [
+                {
+                    "title": "Casa",
+                    "slug": "casa"
+                },
+                {
+                    "title": "Elettronica",
+                    "slug": "elettronica"
+                },
+                {
+                    "title": "Telefonia",
+                    "slug": "telefonia"
+                }
+            ]
+        },
+        {
+            "title": "Astrolabio Laboratorio Grastronomico",
+            "slug": "astrolobio-laboratorio-gastronomico",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/05/34794209_2008980859318778_545754699664457728_n-150x150.jpg",
+            "phone": "331 2142494",
+            "address": {
+                "street": "Via Naviglio 9",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": "info@astrolabiocremona.it",
+            "website": null,
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": "331 2142494",
+            "online_reservations": [
+                {
+                    "site": null
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Bonemerse",
+                            "slug": "bonemerse"
+                        },
+                        {
+                            "title": "Casalmaggiore",
+                            "slug": "casalmaggiore"
+                        },
+                        {
+                            "title": "Castelleone",
+                            "slug": "castelleone"
+                        },
+                        {
+                            "title": "Castelverde",
+                            "slug": "castelverde"
+                        },
+                        {
+                            "title": "Cella Dati",
+                            "slug": "cella-dati"
+                        },
+                        {
+                            "title": "Cicognolo",
+                            "slug": "cicognolo"
+                        },
+                        {
+                            "title": "Cingia De' Botti",
+                            "slug": "cingia-de-botti"
+                        },
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        },
+                        {
+                            "title": "Formigara",
+                            "slug": "formigara"
+                        },
+                        {
+                            "title": "Gussola",
+                            "slug": "gussola"
+                        },
+                        {
+                            "title": "Malagnino",
+                            "slug": "malagnino"
+                        },
+                        {
+                            "title": "Ostiano",
+                            "slug": "ostiano"
+                        },
+                        {
+                            "title": "Pescarolo",
+                            "slug": "pescarolo"
+                        },
+                        {
+                            "title": "Piadena",
+                            "slug": "piadena"
+                        },
+                        {
+                            "title": "Pieve San Giacomo",
+                            "slug": "pieve-san-giacomo"
+                        },
+                        {
+                            "title": "Soresina",
+                            "slug": "soresna"
+                        },
+                        {
+                            "title": "Sospiro",
+                            "slug": "sospiro"
+                        },
+                        {
+                            "title": "Stagno Lombardo",
+                            "slug": "stagno-lombardo"
+                        },
+                        {
+                            "title": "Vescovato",
+                            "slug": "vescovato"
+                        },
+                        {
+                            "title": "Volongo",
+                            "slug": "volongo"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "tutti i giorni su richiesta"
+                    ]
+                },
+                "minimum_expense": "30",
+                "delivery_cost": "0"
+            },
+            "payment_options": [
+                "Contanti",
+                "Carta",
+                "Bancomat",
+                "Bonifico"
+            ],
+            "prepayment": "false",
+            "description": "<p>Prenotare è semplicissimo, vi basta chiamare il numero e comunicare i prodotti da voi desiderati, l’indirizzo dove consegnare, data e ora di consegna.<br>Vi chiediamo un paio di giorni di preavviso.<br><br>Produciamo tutto esclusivamente su ordinazione per garantirvi il massimo della freschezza. Le nostre paste fresche sono vendute abbattute e congelate. Puoi ordinare:</p>",
+            "gallery": null,
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "Paste fresche",
+                    "Sughi e salse",
+                    "Sformatini",
+                    "Merende e spuntini",
+                    "Verdure in agrodolce",
+                    "Dolci"
+                ]
+            },
+            "category": [
+                {
+                    "title": "Alimetari",
+                    "slug": "alimentari"
+                },
+                {
+                    "title": "Gastronomia",
+                    "slug": "gastronomia"
+                }
+            ]
+        },
+        {
+            "title": "ORTOMARKET GUINADINI",
+            "slug": "ortomarket-guinadini",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/04/Schermata-2020-05-22-alle-10.38.28-1-150x150.png",
+            "phone": "338 5715096",
+            "address": {
+                "street": "SP83 187 Persichello",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": "josecimbari@gmail.com",
+            "website": null,
+            "social": {
+                "facebook": null,
+                "instagram": null
+            },
+            "whatsapp": "338 5715096",
+            "online_reservations": [
+                {
+                    "site": null
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Bonemerse",
+                            "slug": "bonemerse"
+                        },
+                        {
+                            "title": "Castelverde",
+                            "slug": "castelverde"
+                        },
+                        {
+                            "title": "Cella Dati",
+                            "slug": "cella-dati"
+                        },
+                        {
+                            "title": "Cicognolo",
+                            "slug": "cicognolo"
+                        },
+                        {
+                            "title": "Cingia De' Botti",
+                            "slug": "cingia-de-botti"
+                        },
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        },
+                        {
+                            "title": "Malagnino",
+                            "slug": "malagnino"
+                        },
+                        {
+                            "title": "Ostiano",
+                            "slug": "ostiano"
+                        },
+                        {
+                            "title": "Pescarolo",
+                            "slug": "pescarolo"
+                        },
+                        {
+                            "title": "Pieve San Giacomo",
+                            "slug": "pieve-san-giacomo"
+                        },
+                        {
+                            "title": "Sospiro",
+                            "slug": "sospiro"
+                        },
+                        {
+                            "title": "Stagno Lombardo",
+                            "slug": "stagno-lombardo"
+                        },
+                        {
+                            "title": "Vescovato",
+                            "slug": "vescovato"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "tutti i giorni su richiesta"
+                    ]
+                },
+                "minimum_expense": "0",
+                "delivery_cost": "0"
+            },
+            "payment_options": [
+                "Contanti"
+            ],
+            "prepayment": "false",
+            "description": "<p>Contattaci telefonicamente per ricevere la spesa a casa.<br><br>Ti consigliamo la consegna settimanale per evitare frequenti contatti.<br><br>La consegna avverrà al di fuori dell’abitazione nel rispetto delle misure previste.<br><br>Il Minimarket offre una scelta di prodotti tra</p>",
+            "gallery": null,
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "alimentari",
+                    "frutta",
+                    "verdura",
+                    "bevande",
+                    "detersivi"
+                ]
+            },
+            "category": [
+                {
+                    "title": "Alimetari",
+                    "slug": "alimentari"
+                },
+                {
+                    "title": "Frutta e verdura",
+                    "slug": "frutta-e-verdura"
+                },
+                {
+                    "title": "Minimarket",
+                    "slug": "minimarket"
+                }
+            ]
+        },
+        {
+            "title": "Gioielleria Davò Cremona",
+            "slug": "gioielleria-davo-cremona",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/04/61415030_344392102904625_8761326653516283904_n-150x150.jpg",
+            "phone": "0372 410294",
+            "address": {
+                "street": "Corso Garibaldi 159",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": "gioielleria.davo@gmail.com",
+            "website": null,
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": "0372 410294",
+            "online_reservations": [
+                {
+                    "site": null
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Bonemerse",
+                            "slug": "bonemerse"
+                        },
+                        {
+                            "title": "Castelverde",
+                            "slug": "castelverde"
+                        },
+                        {
+                            "title": "Cella Dati",
+                            "slug": "cella-dati"
+                        },
+                        {
+                            "title": "Cicognolo",
+                            "slug": "cicognolo"
+                        },
+                        {
+                            "title": "Cingia De' Botti",
+                            "slug": "cingia-de-botti"
+                        },
+                        {
+                            "title": "Ostiano",
+                            "slug": "ostiano"
+                        },
+                        {
+                            "title": "Sospiro",
+                            "slug": "sospiro"
+                        },
+                        {
+                            "title": "Vescovato",
+                            "slug": "vescovato"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "Da lunedì al sabato"
+                    ]
+                },
+                "minimum_expense": "50",
+                "delivery_cost": "0"
+            },
+            "payment_options": [
+                "Contanti",
+                "Satispay"
+            ],
+            "prepayment": "false",
+            "description": "<p>Contattaci telefonicamente o tramite messaggio whatsapp o tramite e-mail per ricevere a casa vostra i nostri prodotti.<br>sConsulta la nostra vetrina social, siamo presenti anche su Instagram, potrai scegliere tra vari prodotti di:</p>",
+            "gallery": [
+                "https://cremona.domicilio.app/app/uploads/2020/04/9FC592D7-916E-4E9B-81EA-58D1A54C123A-1.png",
+                "https://cremona.domicilio.app/app/uploads/2020/04/A8E4684B-AE66-4434-8DAC-75A9C2650718-2.png",
+                "https://cremona.domicilio.app/app/uploads/2020/04/E67A65BF-640B-4EFD-AB90-15BC939EBF38-1.png",
+                "https://cremona.domicilio.app/app/uploads/2020/04/86728655_496552554355245_8942769011519651840_o.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/BE1F9E04-11FC-45FA-9960-36FFC415F035.png",
+                "https://cremona.domicilio.app/app/uploads/2020/04/65051843_356266565050512_4461052530285084672_o.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/38815BDA-63E7-4A6E-8145-34A61D301452-1-1.png",
+                "https://cremona.domicilio.app/app/uploads/2020/04/62508107_351561708854331_9080048552985493504_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/IMG_0729-rotated.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/image0-1.jpeg"
+            ],
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "gioielleria",
+                    "argentineria",
+                    "orologeria"
+                ]
+            },
+            "category": [
+                {
+                    "title": "Gioielleria",
+                    "slug": "gioiellrtia"
+                }
+            ]
+        },
+        {
+            "title": "Ghiottoniere",
+            "slug": "ghiottoniere",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/04/LOGO-jpg-150x150.jpg",
+            "phone": "0372 28971",
+            "address": {
+                "street": "Corso Garibaldi 200",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": "gioielleria.davo@gmail.com",
+            "website": null,
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": "0372 28971",
+            "online_reservations": [
+                {
+                    "site": null
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Bonemerse",
+                            "slug": "bonemerse"
+                        },
+                        {
+                            "title": "Castelverde",
+                            "slug": "castelverde"
+                        },
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        },
+                        {
+                            "title": "Malagnino",
+                            "slug": "malagnino"
+                        },
+                        {
+                            "title": "Stagno Lombardo",
+                            "slug": "stagno-lombardo"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "Dal lunedì al sabato"
+                    ]
+                },
+                "minimum_expense": "30",
+                "delivery_cost": "3"
+            },
+            "payment_options": [
+                "Contanti",
+                "Bonifco"
+            ],
+            "prepayment": "false",
+            "description": "<p>Contattaci per ricevere direttamente a casa i nostri prodotti, potrai scegliere tra un vasto assortimento di tè ,caffè, cioccolati artigianali e tanto altro.<br><br>Costo di consegna 3€ in città, 5€ fuori città.<br><br>Chiamaci per effettuare i tuoi ordini.Le consegne verranno effettuate dalle 14.30 alle 15.30 e dalle 19.30 alle 20.30.<br><br></p>",
+            "gallery": [
+                "https://cremona.domicilio.app/app/uploads/2020/04/9FC592D7-916E-4E9B-81EA-58D1A54C123A-1.png",
+                "https://cremona.domicilio.app/app/uploads/2020/04/A8E4684B-AE66-4434-8DAC-75A9C2650718-2.png",
+                "https://cremona.domicilio.app/app/uploads/2020/04/E67A65BF-640B-4EFD-AB90-15BC939EBF38-1.png",
+                "https://cremona.domicilio.app/app/uploads/2020/04/86728655_496552554355245_8942769011519651840_o.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/BE1F9E04-11FC-45FA-9960-36FFC415F035.png",
+                "https://cremona.domicilio.app/app/uploads/2020/04/65051843_356266565050512_4461052530285084672_o.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/38815BDA-63E7-4A6E-8145-34A61D301452-1-1.png",
+                "https://cremona.domicilio.app/app/uploads/2020/04/62508107_351561708854331_9080048552985493504_n.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/IMG_0729-rotated.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/04/image0-1.jpeg"
+            ],
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "tè e tisane biologiche",
+                    "caffè sfusi in miscele e mono origine con macinature personalizzate per napoletana, pressofiltro, espresso ,moka,",
+                    "cioccolati artigianali sfusi e in originali confezioni regalo,",
+                    "creme",
+                    "confetture artigianali",
+                    "confetti di Sulmona",
+                    "liquirizia biologica di calabria",
+                    "liquori artigianali",
+                    "pastocceria secca da grani antichi italiani",
+                    "sott'oli e conserve da specialità regionale italiane."
+                ]
+            },
+            "category": [
+                {
+                    "title": "Alimentari",
+                    "slug": "alimentari"
+                },
+                {
+                    "title": "Bevande",
+                    "slug": "bevande"
+                },
+                {
+                    "title": "Erboristeria",
+                    "slug": "erboristeria"
+                }
+            ]
+        },
+        {
+            "title": "Pane & Amore",
+            "slug": "pane-e-amore",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/03/13336098_1884046805155500_846869449543012907_n-150x150.jpg",
+            "phone": "327 1703772",
+            "address": {
+                "street": "Via Gramsci 7",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": "info@panificiogeneraliermanno.it",
+            "website": "https://paneeamore.net",
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": "327 1703772",
+            "online_reservations": [
+                {
+                    "site": null
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Bonemerse",
+                            "slug": "bonemerse"
+                        },
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        },
+                        {
+                            "title": "Pieve d'Olmi",
+                            "slug": "pieve-d-olmi"
+                        },
+                        {
+                            "title": "Spinadesco",
+                            "slug": "spinadesco"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "Dal lunedì al sabato"
+                    ]
+                },
+                "minimum_expense": "0",
+                "delivery_cost": "0"
+            },
+            "payment_options": [
+                "Contanti",
+                "Assegno bancario"
+            ],
+            "prepayment": "false",
+            "description": "<p>Contattaci per ricevere a casa la spesa.<br><br>Chiamaci al numero telefonico, per le consegne fuori città il costo della consegna verrà concordato insieme.<br><br>Tra i nostri prodotti puoi trovare:</p>",
+            "gallery": null,
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "Pizza in teglia",
+                    "Focaccia in teglia",
+                    "Impasto per la pizza (disponibile solo in questo periodo)",
+                    "Prodotti freschi di gastronomia",
+                    "Prodotti fresci di pasticceria",
+                    "Inoltre, puoi trovare: farina, olio, sale, sughi, biscotti confezionati, vino ecc."
+                ]
+            },
+            "category": [
+                {
+                    "title": "Enoteca",
+                    "slug": "enoteca"
+                },
+                {
+                    "title": "Gastronomia",
+                    "slug": "gastronomia"
+                },
+                {
+                    "title": "Panetteria",
+                    "slug": "panetteria"
+                },
+                {
+                    "title": "Pasticceria",
+                    "slug": "pasticceria"
+                }
+            ]
+        },
+        {
+            "title": "Associazioni La città dell'uomo e Lions Club",
+            "slug": "associazioni-la-citta-delluomo-e-lions-club",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/03/15380446_1326896530683568_5926059044167269265_n-150x150.jpg",
+            "phone": "342 5485674",
+            "address": {
+                "street": "Via Legione Ceccopieri 21",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": "info@cittadelluomo.it",
+            "website": "https://cittadelluomo.it",
+            "social": {
+                "facebook": null,
+                "instagram": null
+            },
+            "whatsapp": "342 5485674",
+            "online_reservations": [
+                {
+                    "site": null
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        }
+                    ],
+                    "delivery_days_times": null
+                },
+                "minimum_expense": "0",
+                "delivery_cost": "0"
+            },
+            "payment_options": [
+                "Bonifico",
+                "Bancomat",
+                "Carta di credito"
+            ],
+            "prepayment": "false",
+            "description": "<p>Le Associazioni La città dell’uomo e Lions Club, associazioni NO PROFIT, in stretto contatto con altre associazioni di Cremona sono a disposizione di cittadini privati per le consegne a domicilio dei beni di prima necessità.<br><br>I volontari si occuperanno della spesa al supermercato e in farmacia.<br><br>Contatta il numero telefonico per prenotare la spesa e i farmaci.</p>",
+            "gallery": null,
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": null
+            },
+            "category": [
+                {
+                    "title": "Farnacia",
+                    "slug": "farmacia"
+                },
+                {
+                    "title": "Supermercato",
+                    "slug": "supermercato"
+                }
+            ]
+        },
+        {
+            "title": "Ottica Monteverdi",
+            "slug": "ottica-monteverdi",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/03/12108009_921920141176568_7264703862904152734_n-150x150.jpg",
+            "phone": "0372 27021",
+            "address": {
+                "street": "Via Ala Ponzone 12",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": "otticamonteverdi@gmail.com",
+            "website": "https://otticamonteverdi.it",
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": "0372 27021",
+            "online_reservations": [
+                {
+                    "site": null
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "Da martedì al sabato"
+                    ]
+                },
+                "minimum_expense": "0",
+                "delivery_cost": "0"
+            },
+            "payment_options": null,
+            "prepayment": "false",
+            "description": "<p>Per riparazioni di lenti o emergenze, nell’impossibilità di spostamento del cliente, offriamo il servizio del ritiro a casa e della riparazione.</p>",
+            "gallery": null,
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": null
+            },
+            "category": [
+                {
+                    "title": "Ottico",
+                    "slug": "ottico"
+                }
+            ]
+        },
+        {
+            "title": "DIMENSIONE NATURA",
+            "slug": "dimensione-natura",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/03/IMG-20200121-WA0005-150x150.jpg",
+            "phone": "0372 432762",
+            "address": {
+                "street": "Via Ippocastani 2/b",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": "dimensionenatura@fastwebnet.it",
+            "website": null,
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": "0372 432762",
+            "online_reservations": [
+                {
+                    "site": null
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Bonemerse",
+                            "slug": "bonemerse"
+                        },
+                        {
+                            "title": "Castelverde",
+                            "slug": "castelverde"
+                        },
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        },
+                        {
+                            "title": "Malagnino",
+                            "slug": "malagnino"
+                        },
+                        {
+                            "title": "Ostiani",
+                            "slug": "ostiano"
+                        },
+                        {
+                            "title": "Pescarolo",
+                            "slug": "perscarolo"
+                        },
+                        {
+                            "title": "Pieve San Giacomo",
+                            "slug": "pieve-san-gioacomo"
+                        },
+                        {
+                            "title": "Stagno Lombardo",
+                            "slug": "stagno-lombardo"
+                        },
+                        {
+                            "title": "Vescovato",
+                            "slug": "vescovato"
+                        },
+                        {
+                            "title": "Volongo",
+                            "slug": "volongo"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "Da lunedì al venerdì di pomeriggio"
+                    ]
+                },
+                "minimum_expense": "0",
+                "delivery_cost": "3"
+            },
+            "payment_options": [
+                "Contanti"
+            ],
+            "prepayment": "false",
+            "description": "<p>Contattaci tramite i numeri telefonici e ti consegneremo il tuo ordine a casa.<br><br>È possibile effettuare la prenotazione il giorno stesso della consegna chiamando dalle 8:00 alle 13:00.<br><br>Per gli ordini ricevuti dopo le 13:00 la consegna avverrà il giorno seguente.<br><br>Puoi ordinare mangimi e prodotti per la cura ed il benessere di:.<br><br><ul><li>Cani</li><br><li>Gatti</li><br><li>Roditori</li><br><li>Pesci</li><br><li>Uccelli</li><br><br>Tra i prodotti presenti in negozio puoi ordinare anche</p>",
+            "gallery": [
+                "https://cremona.domicilio.app/app/uploads/2020/03/natura.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/03/WhatsApp-Image-2020-03-25-at-17.28.10.jpeg"
+            ],
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "piante per appartamento",
+                    "piantine per orto e giardino",
+                    "concimi",
+                    "terriccio",
+                    "prodotti biologici e non per la cura di orto e giardino,(insetticidi e fungicidi)"
+                ]
+            },
+            "category": [
+                {
+                    "title": "Animali",
+                    "slug": "animali"
+                },
+                {
+                    "title": "Fiorista",
+                    "slug": "fiorista"
+                }
+            ]
+        },
+        {
+            "title": "Terremoto",
+            "slug": "terremoto",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/05/terremoto-150x150.png",
+            "phone": "0372 27729",
+            "address": {
+                "street": "Viale Trento e Trieste 69",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": "terremoto@gmail.com",
+            "website": null,
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": "0372 27729",
+            "online_reservations": [
+                {
+                    "site": null
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "Da lunedì al sabato"
+                    ]
+                },
+                "minimum_expense": "0",
+                "delivery_cost": "30"
+            },
+            "payment_options": [
+                "Contanti",
+                "Carta e Bancomat"
+            ],
+            "prepayment": "false",
+            "description": "<p>Contattaci chiamandoci al numero fisso o mandando un messaggio su whatsapp. Offriamo un servizio a domicilio per il recupero e successivamente consegna della moto, scooter o Vespa.<br>Per qualsiasi necessità, informazioni e preventivi contattarci al numero telefonico.Operiamo a Cremona e dintorni.<br><br>I nostri servizi:</p>",
+            "gallery": [
+                "https://cremona.domicilio.app/app/uploads/2020/05/54374602_2354877641411378_3755269144467996672_o.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/05/51449953_2327711180794691_3272925951847038976_o.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/05/54515761_2354877508078058_1523619470499643392_o-1.jpg"
+            ],
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "Riparazione moto,scooter,vespa",
+                    "Possibilità di restauri",
+                    "Sostituzione pneumatici",
+                    "Servizio revisioni",
+                    "Ordinaria manutenzione dei veicoli"
+                ]
+            },
+            "category": [
+                {
+                    "title": "Veicoli",
+                    "slug": "veicoli"
+                }
+            ]
+        },
+        {
+            "title": "Pescheria Duomo",
+            "slug": "pescheria-duomo",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/03/20200314_104937-150x150.jpg",
+            "phone": "0372 25691",
+            "address": {
+                "street": "Via Largo Boccaccino 22-24",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": null,
+            "website": null,
+            "social": {
+                "facebook": null,
+                "instagram": null
+            },
+            "whatsapp": "0372 25691",
+            "online_reservations": [
+                {
+                    "site": null
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Bonemerse",
+                            "slug": "bonemerse"
+                        },
+                        {
+                            "title": "Castelverde",
+                            "slug": "castelverde"
+                        },
+                        {
+                            "title": "Cella Dati",
+                            "slug": "cella-dati"
+                        },
+                        {
+                            "title": "Cicognolo",
+                            "slug": "cicognolo"
+                        },
+                        {
+                            "title": "Cingia De' Botti",
+                            "slug": "cingia-de-botti"
+                        },
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        },
+                        {
+                            "title": "Malagnino",
+                            "slug": "malagnino"
+                        },
+                        {
+                            "title": "Pescarolo",
+                            "slug": "pescarolo"
+                        },
+                        {
+                            "title": "Pieve San Giacomo",
+                            "slug": "pieve-san-giacomo"
+                        },
+                        {
+                            "title": "Sospiro",
+                            "slug": "sospiro"
+                        },
+                        {
+                            "title": "Stagno Lombardo",
+                            "slug": "stagno-lombardo"
+                        },
+                        {
+                            "title": "Vescovato",
+                            "slug": "vescovato"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "Dal martedì al sabato dalle 8:00-13:00"
+                    ]
+                },
+                "minimum_expense": "0",
+                "delivery_cost": "0"
+            },
+            "payment_options": [
+                "Contanti"
+            ],
+            "prepayment": "false",
+            "description": "<p>La Pescheria Duomo è sempre operativa per voi , mangiare pesce é importante per mantenerci in forma e aumentare le difese immunitarie.<br><br>Contattaci ai numeri telefonici e concorderemo insieme la consegna.<br><br>Tra i prodotti che puoi ordinare:</p>",
+            "gallery": [
+                "https://cremona.domicilio.app/app/uploads/2020/03/20200310_081601-1536x2048.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/03/IMG-20200208-WA0033.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/03/20200313_104820-2048x1536.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/03/Screenshot_20200208-210735_Facebook.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/03/20200317_085529-1536x2048.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/03/20200321_081324-1-1536x2048.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/03/20200306_083208-1536x2048.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/03/20200319_084230-1-1626x2048.jpg"
+            ],
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": [
+                    "Pesce fresco appena pescato",
+                    "Pesce pronto da cucinare",
+                    "Squisite Tartar e Carpacci in base al pesce di stagione",
+                    "Cruditè",
+                    "Gastronomia di mare",
+                    "Pesce surgelato",
+                    "Prodotti preconfezionati"
+                ]
+            },
+            "category": [
+                {
+                    "title": "Gastronomia",
+                    "slug": "gastronomia"
+                },
+                {
+                    "title": "Pescheria",
+                    "slug": "pescheria"
+                }
+            ]
+        },
+        {
+            "title": "Zootecnica",
+            "slug": "zootecnica",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/03/zoo-e1585046200697-150x150.jpg",
+            "phone": "0372 23204",
+            "address": {
+                "street": "Via Solfierino 35",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": null,
+            "website": null,
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": "0372 23204",
+            "online_reservations": [
+                {
+                    "site": null
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Bonemerse",
+                            "slug": "bonemerse"
+                        },
+                        {
+                            "title": "Castelverde",
+                            "slug": "castelverde"
+                        },
+                        {
+                            "title": "Castelvetro Piacentino PC",
+                            "slug": "castelvetro-piacentino-pc"
+                        },
+                        {
+                            "title": "Cicognolo",
+                            "slug": "cicognolo"
+                        },
+                        {
+                            "title": "Cingia De' Botti",
+                            "slug": "cingia-de-botti"
+                        },
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        },
+                        {
+                            "title": "Malagnino",
+                            "slug": "malagnino"
+                        },
+                        {
+                            "title": "Pescarolo",
+                            "slug": "pescarolo"
+                        },
+                        {
+                            "title": "Sospiro",
+                            "slug": "sospiro"
+                        },
+                        {
+                            "title": "Stagno Lombardo",
+                            "slug": "stagno-lombardo"
+                        },
+                        {
+                            "title": "Vescovato",
+                            "slug": "vescovato"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "Da concordare"
+                    ]
+                },
+                "minimum_expense": "20",
+                "delivery_cost": "0"
+            },
+            "payment_options": [
+                "Contanti",
+                "Bonifco"
+            ],
+            "prepayment": "false",
+            "description": "<p>Chiama il contatto telefonico dalle 15.30 alle 18.30, oppure manda un messaggio su facebook alla pagina del negozio.</p>",
+            "gallery": null,
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": null
+            },
+            "category": [
+                {
+                    "title": "Animali",
+                    "slug": "animali"
+                }
+            ]
+        },
+        {
+            "title": "La Bottega di Francesco",
+            "slug": "la-bottega-di-francesco",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/03/82253969-8517-4952-81A4-1B29BB708FC7-150x150.jpeg",
+            "phone": "0372 55160",
+            "address": {
+                "street": "Via Roma 13",
+                "cap": "26100",
+                "municipality": "Pozzaglio ed Uniti",
+                "province": "CR"
+            },
+            "email": "labottegadifrancesco@yahoo.com",
+            "website": null,
+            "social": {
+                "facebook": "url facebook",
+                "instagram": null
+            },
+            "whatsapp": "0372 55160",
+            "online_reservations": [
+                {
+                    "site": null
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Corte de' Frati",
+                            "slug": "corte-de-frati"
+                        },
+                        {
+                            "title": "Olmoneta",
+                            "slug": "olmoneta"
+                        },
+                        {
+                            "title": "Pozzaglio ed Uniti",
+                            "slug": "pozzaglio-ed-uniti"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "Tutto i giorni nel pomeriggio"
+                    ]
+                },
+                "minimum_expense": "0",
+                "delivery_cost": "0"
+            },
+            "payment_options": [
+                "Contanti",
+                "Satispay"
+            ],
+            "prepayment": "false",
+            "description": "<p>Contattaci al numero telefonico per ricevere la tua spesa a domicilio.<br><br>Non indichiamo un orario massimo per chiamare, ma se l’ordine arriverà nel tardo pomeriggio la spesa sarà consegnata il giorno seguente.<br><br></p>",
+            "gallery": [
+                "https://cremona.domicilio.app/app/uploads/2020/03/83944414_714990955698421_2682944805704564736_o.jpg",
+                "https://cremona.domicilio.app/app/uploads/2020/03/85057211_730899777440872_133469570466840576_o-1.jpg"
+            ],
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": null
+            },
+            "category": [
+                {
+                    "title": "Frutta e verdura",
+                    "slug": "frutta-e-verdura"
+                },
+                {
+                    "title": "Gastronomia",
+                    "slug": "gastronomia"
+                },
+                {
+                    "title": "Minimarket",
+                    "slug": "minimarket"
+                },
+                {
+                    "title": "Panetteria",
+                    "slug": "panetteria"
+                }
+            ]
+        },
+        {
+            "title": "PIZZIKOTTO",
+            "slug": "pizzikotto",
+            "logo": "https://cremona.domicilio.app/app/uploads/2020/04/download-PIZZIKOTTO-150x150.png",
+            "phone": "0372 35665",
+            "address": {
+                "street": "Via Erdiano 9",
+                "cap": "26100",
+                "municipality": "Cremona",
+                "province": "CR"
+            },
+            "email": "pizzikottocremona@cigierre.com",
+            "website": "https://pizzikotto.it",
+            "social": {
+                "facebook": null,
+                "instagram": null
+            },
+            "whatsapp": "0372 35665",
+            "online_reservations": [
+                {
+                    "site": "https://pizzikotto.it/ordinionline"
+                }
+            ],
+            "delivery": {
+                "zone": {
+                    "municipality": [
+                        {
+                            "title": "Cremona",
+                            "slug": "cremona"
+                        }
+                    ],
+                    "delivery_days_times": [
+                        "Tutti i giorni, orario serale"
+                    ]
+                },
+                "minimum_expense": "15",
+                "delivery_cost": "3"
+            },
+            "payment_options": [
+                "Carta di credito",
+                "Satispay",
+                "Contanti"
+            ],
+            "prepayment": "false",
+            "description": "<p>PIZZIKOTTO è una pizzeria e non solo...<br><br>Vasto menù di pizze: 3 tipologie differenti di impasto (sottile - medio - alto), patatine fritte, dessert, bevande.<br><br>Contattaci telefonicamente per fare i tuoi ordini, oppure scegli dal sito web ciò che fa per te e concludi la prentazione online.<br>La consegna avviene tutti i giorni dalle 18:00 alle 22:00.</p>",
+            "gallery": null,
+            "products": {
+                "products_list": "list image",
+                "products_surveyed": null
+            },
+            "category": [
+                {
+                    "title": "Pizzeria",
+                    "slug": "pizzeria"
+                },
+                {
+                    "title": "Ristorazione",
+                    "slug": "ristorazione"
+                }
+            ]
+        }
+    ],
+    "zones": [
+        {
+            "title": "Tutte le Zone",
+            "slug": "all-zones",
+            "stores_number": "204",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Acquanegra Cremonese",
+            "slug": "acquanegra-cremonese",
+            "stores_number": "49",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Annicco",
+            "slug": "annicco",
+            "stores_number": "7",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Azzanello",
+            "slug": "azzanello",
+            "stores_number": "2",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Bonemerse",
+            "slug": "bonemerse",
+            "stores_number": "86",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Bordolano",
+            "slug": "bordolano",
+            "stores_number": "6",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Bosco ex Parmigiano",
+            "slug": "bosco-ex-parmigiano",
+            "stores_number": "77",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Casalbuttano ed Uniti",
+            "slug": "casalbuttano-ed-uniti",
+            "stores_number": "28",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Casalmorano",
+            "slug": "casalmorano",
+            "stores_number": "5",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Casalmaggiore",
+            "slug": "casalmaggiore",
+            "stores_number": "20",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Castelleone",
+            "slug": "castelleone",
+            "stores_number": "23",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Castelverde",
+            "slug": "castelverde",
+            "stores_number": "82",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Castelvetro Piacentino PC",
+            "slug": "castelvetro-piacentino-pc",
+            "stores_number": "77",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Cella Dati",
+            "slug": "cella-dati",
+            "stores_number": "37",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Cicognolo",
+            "slug": "cicognolo",
+            "stores_number": "49",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Cingia De' Botti",
+            "slug": "cingia-de-botti",
+            "stores_number": "36",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Corte de' Cortesi con Cignone",
+            "slug": "corte-de-cortesi-con-cignone",
+            "stores_number": "12",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Corte de' Frati",
+            "slug": "corte-de-frati",
+            "stores_number": "54",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Costa Sant'Ambramo",
+            "slug": "costa-santabramo",
+            "stores_number": "78",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Cremona",
+            "slug": "cremona",
+            "stores_number": "187",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Crotta d'Adda",
+            "slug": "crotta-dadda",
+            "stores_number": "187",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Drizzona",
+            "slug": "drizzona",
+            "stores_number": "13",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Formigara",
+            "slug": "formigara",
+            "stores_number": "23",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Gabbioneta - Binanuova",
+            "slug": "gabbioneta-binanuova",
+            "stores_number": "31",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Gadesco-Pieve Delmona",
+            "slug": "gadesco-pieve-delmona",
+            "stores_number": "69",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Genivolta",
+            "slug": "genivolta",
+            "stores_number": "15",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Gerre de' Caprioli",
+            "slug": "gerre-de-caprioli",
+            "stores_number": "45",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Grontardo",
+            "slug": "grontardo",
+            "stores_number": "45",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Grumello Cremonese ed Uniti",
+            "slug": "grumello-cremonese-ed-uniti",
+            "stores_number": "19",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Gussola",
+            "slug": "gussola",
+            "stores_number": "16",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Isola Dovarese",
+            "slug": "isola-dovarese",
+            "stores_number": "17",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Malagnino",
+            "slug": "malagnino",
+            "stores_number": "74",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Martignana del Po",
+            "slug": "martignana-del-po",
+            "stores_number": "16",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Monticelli d'Ongina PC",
+            "slug": "monticelli-dongina-pc",
+            "stores_number": "39",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Olmeneta",
+            "slug": "olmeneta",
+            "stores_number": "46",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Ostiano",
+            "slug": "ostiano",
+            "stores_number": "33",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Paderno Ponchielli",
+            "slug": "paderno-ponchielli",
+            "stores_number": "16",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Persico Dosimo",
+            "slug": "persico-dosimo",
+            "stores_number": "72",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Pescarolo",
+            "slug": "pescarolo",
+            "stores_number": "46",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Pessina Cremonese",
+            "slug": "pessina-cremonese",
+            "stores_number": "32",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Piadena",
+            "slug": "piadena",
+            "stores_number": "17",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Pieve d'Olmi",
+            "slug": "pieve-dolmi",
+            "stores_number": "47",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Pieve San Giacomo",
+            "slug": "pieve-san-giacomo",
+            "stores_number": "47",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Pizzighettone",
+            "slug": "pizzighettone",
+            "stores_number": "31",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Pozzaglio ed Uniti",
+            "slug": "pozzaglio-ed-uniti",
+            "stores_number": "54",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Rivarolo del Re ed Uniti",
+            "slug": "rivarolo-de-re-ed-uniti",
+            "stores_number": "15",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Rivolta D'adda",
+            "slug": "rivolta-dadda",
+            "stores_number": "3",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Robecco d'Oglio",
+            "slug": "robecco-doglio",
+            "stores_number": "12",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "San Bassano",
+            "slug": "san-bassano",
+            "stores_number": "23",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "San Daniele Po",
+            "slug": "san-daniele-po",
+            "stores_number": "35",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Scandolara Ripa D'oglio",
+            "slug": "scandolara-ripa-doglio",
+            "stores_number": "16",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Sesto ed Uniti",
+            "slug": "sesto-ed-uniti",
+            "stores_number": "61",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Soresina",
+            "slug": "soresina",
+            "stores_number": "30",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Sospiro",
+            "slug": "sospiro",
+            "stores_number": "56",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Spinadesco",
+            "slug": "spinadesco",
+            "stores_number": "62",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Spino d'Adda",
+            "slug": "spino-dadda",
+            "stores_number": "7",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Stagno Lombardo",
+            "slug": "stagno-lombardo",
+            "stores_number": "59",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Torre de' Picenardi",
+            "slug": "torre-de-picenardi",
+            "stores_number": "36",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Valiate",
+            "slug": "valiate",
+            "stores_number": "10",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Vescovato",
+            "slug": "vescovato",
+            "stores_number": "60",
+            "position": "",
+            "parent_zone": "Zona padre"
+        },
+        {
+            "title": "Volongo",
+            "slug": "volongo",
+            "stores_number": "27",
+            "position": "",
+            "parent_zone": "Zona padre"
+        }
+    ],
+    "categories": [
+        {
+            "title": "Veicoli",
+            "slug": "veicoli",
+            "stores_number": "4",
+            "icon": "https://logoipsum.com/logo/logo-23.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Hobby/Tempo libero",
+            "slug": "hobby-tempo-libero",
+            "stores_number": "29",
+            "icon": "https://logoipsum.com/logo/logo-12.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Bar",
+            "slug": "bar",
+            "stores_number": "6",
+            "icon": "https://logoipsum.com/logo/logo-8.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Gioielleria",
+            "slug": "gioielleria",
+            "stores_number": "2",
+            "icon": "https://logoipsum.com/logo/logo-11.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Infanzia",
+            "slug": "infanzia",
+            "stores_number": "9",
+            "icon": "https://logoipsum.com/logo/logo-12.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Casa",
+            "slug": "casa",
+            "stores_number": "12",
+            "icon": "https://logoipsum.com/logo/logo-9.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Abbigliamento",
+            "slug": "abbigliamento",
+            "stores_number": "20",
+            "icon": "https://logoipsum.com/logo/logo-10.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Minimarket",
+            "slug": "minimarket",
+            "stores_number": "7",
+            "icon": "https://logoipsum.com/logo/logo-7.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Bevande",
+            "slug": "bevande",
+            "stores_number": "17",
+            "icon": "https://logoipsum.com/logo/logo-5.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Libreria",
+            "slug": "libreria",
+            "stores_number": "4",
+            "icon": "https://logoipsum.com/logo/logo-1.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Alimentari",
+            "slug": "alimentari",
+            "stores_number": "40",
+            "icon": "https://logoipsum.com/logo/logo-16.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Cura del corpo",
+            "slug": "cura-del-corpo",
+            "stores_number": "11",
+            "icon": "https://logoipsum.com/logo/logo-19.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Enoteca",
+            "slug": "enoteca",
+            "stores_number": "20",
+            "icon": "https://logoipsum.com/logo/logo-12.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Pasticceria",
+            "slug": "pasticceria",
+            "stores_number": "12",
+            "icon": "https://logoipsum.com/logo/logo-12.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Animali",
+            "slug": "animali",
+            "stores_number": "3",
+            "icon": "https://logoipsum.com/logo/logo-12.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Cartoleria",
+            "slug": "cartoleria",
+            "stores_number": "10",
+            "icon": "https://logoipsum.com/logo/logo-20.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Elettronica",
+            "slug": "elettronica",
+            "stores_number": "5",
+            "icon": "https://logoipsum.com/logo/logo-8.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Erboristeria",
+            "slug": "erboristeria",
+            "stores_number": "2",
+            "icon": "https://logoipsum.com/logo/logo-7.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Farmacia",
+            "slug": "farmacia",
+            "stores_number": "5",
+            "icon": "https://logoipsum.com/logo/logo-5.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Fiorista",
+            "slug": "fiorista",
+            "stores_number": "4",
+            "icon": "https://logoipsum.com/logo/logo-4.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Frutta e verdura",
+            "slug": "frutta-e-verdura",
+            "stores_number": "14",
+            "icon": "https://logoipsum.com/logo/logo-14.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Gastronomia",
+            "slug": "gastronomia",
+            "stores_number": "23",
+            "icon": "https://logoipsum.com/logo/logo-23.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Gelateria",
+            "slug": "gelateria",
+            "stores_number": "8",
+            "icon": "https://logoipsum.com/logo/logo-8.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Macelleria",
+            "slug": "macelleria",
+            "stores_number": "9",
+            "icon": "https://logoipsum.com/logo/logo-9.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Ottico",
+            "slug": "ottico",
+            "stores_number": "3",
+            "icon": "https://logoipsum.com/logo/logo-3.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Panetteria",
+            "slug": "panetteria",
+            "stores_number": "17",
+            "icon": "https://logoipsum.com/logo/logo-17.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Pescheria",
+            "slug": "pescheria",
+            "stores_number": "1",
+            "icon": "https://logoipsum.com/logo/logo-1.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Pizzeria",
+            "slug": "pizzeria",
+            "stores_number": "20",
+            "icon": "https://logoipsum.com/logo/logo-20.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Ristorazione",
+            "slug": "ristorazione",
+            "stores_number": "43",
+            "icon": "https://logoipsum.com/logo/logo-14.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Supermercato",
+            "slug": "supermercato",
+            "stores_number": "2",
+            "icon": "https://logoipsum.com/logo/logo-2.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        },
+        {
+            "title": "Telefonia",
+            "slug": "telefonia",
+            "stores_number": "2",
+            "icon": "https://logoipsum.com/logo/logo-2.svg",
+            "cover": "",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. A, aut.",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": ""
+        }
+    ],
+    "products": [
+        {
+            "title": "Pane",
+            "slug": "pane",
+            "cover": "",
+            "description": "Semplicemnete del pane...",
+            "price_list": "2",
+            "discounted_price": "",
+            "visibility": "true",
+            "gallery": [
+                "",
+                "",
+                ""
+            ],
+            "product_category": "alimentazione"
+        }
+    ],
+    "product_categories": [
+        {
+            "title": "Alimentazione",
+            "slug": "alimentazione",
+            "icon": "",
+            "cover": "",
+            "description": "",
+            "secondary_terms": "",
+            "title_seo": "",
+            "description_seo": "",
+            "keywords_seo": [
+                "",
+                "",
+                ""
+            ],
+            "image_seo": "",
+            "products_number": "52",
+            "parent_category": ""
+        }
+    ],
+    "users": [
+        {
+            "name": "Nome",
+            "surname": "Surname",
+            "email": "example@domain.com",
+            "phone": "123456789012",
+            "password": "$3cr3tP4$$w0rd",
+            "avatar": ""
+        }
+    ],
+    "messagges": [
+        {
+            "user": "User",
+            "store": "Store Name",
+            "description": "Text Message..."
+        }
+    ],
+    "products_order": {
+        "user": "Name Surname",
+        "store": "Store Name",
+        "address": "Via Cicogna, 12 26100 Cremona",
+        "delivery_date": "",
+        "requested_products": {
+            "request_description": "Shut up adn take my money!",
+            "selected_products": [
+                {},
+                {},
+                {}
+            ]
+        },
+        "general_notes": ""
+    }
+}
