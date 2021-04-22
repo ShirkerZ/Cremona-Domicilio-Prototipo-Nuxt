@@ -28,6 +28,7 @@ a {
       bg-right-bottom
       bg-no-repeat
       group
+      max-h-80
       lg:h-45vh
       lg:my-0;
 
@@ -40,6 +41,7 @@ a {
       @apply text-xl
         text-white
         font-medium
+        max-w-lg
         md:text-2xl
         lg:pr-64;
     }

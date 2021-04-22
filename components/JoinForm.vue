@@ -1,5 +1,16 @@
 <template>
   <div class="join-form">
+    <h2 class="title">{{ $t("navbar.join") }}</h2>
+    <h6>
+      Vuoi essere anche tu nell’elenco delle attività che fanno servizio a
+      domicilio a Cremona?<br /><br />
+      Basta che compili il form qui sotto in tutti i suoi campi e invii la
+      richiesta (è gratis!).<br />
+      Riceverai un avviso non appena ti avremo inserito.<br /><br />
+      Lavoriamo affinché l’aggiornamento avvenga nel più breve tempo
+      possibile.<br /><br />
+      Intanto grazie per la tua iscrizione e per il tuo servizio!
+    </h6>
     <div class="steps">
       <ul>
         <li :class="{ active: step === 1 }">
@@ -296,12 +307,31 @@ export default {
 
 <style lang="scss" scoped>
 .join-form {
-  @apply p-4;
+  @apply p-4
+      px-36
+    max-w-screen-xl
+    mx-auto;
+
+  .title {
+    @apply text-2xl
+      font-medium
+      my-8
+      md:mt-16
+      md:mb-12
+      md:text-4xl
+      md:font-bold;
+  }
+
+  h6 {
+    @apply
+      my-8
+      md:mb-24;
+  }
 
   .steps {
     @apply flex
     w-full
-    px-36
+
     my-4;
 
     ul {
@@ -338,8 +368,6 @@ export default {
   }
 
   form {
-    @apply px-36;
-
     .step {
       @apply flex
         flex-col
@@ -397,7 +425,7 @@ export default {
         }
 
         label {
-          @apply text-sm
+          @apply text-xs
             my-0.5;
         }
       }
@@ -405,8 +433,7 @@ export default {
       p {
         @apply text-xs
             my-2
-            text-gray-cremona-domicilio
-            md:text-sm;
+            text-gray-cremona-domicilio;
       }
     }
 
