@@ -115,14 +115,15 @@
                 <p>{{ getStoreData.delivery.minimum_expense }}€</p>
               </li>
               <!-- Payment option -->
-              <li
-                class="payment-options"
-                v-if="getStoreData.payment_options[0]"
-              >
+              <li class="payment-options" v-if="getStoreData.payment_options.filter(mode => mode.mode).length">
                 <h5>Modalità di pagamento</h5>
                 <div>
-                  <p v-for="mode in getStoreData.payment_options" :key="mode">
-                    {{ mode }}
+                  <p
+                    v-for="mode in getStoreData.payment_options"
+                    :key="mode.title"
+                    v-if="mode.mode"
+                  >
+                    {{ mode.title }}
                   </p>
                 </div>
               </li>
@@ -496,11 +497,16 @@ export default {
             div {
               @apply flex
               flex-col
+              w-1/2
+              flex-wrap
+              justify-end
               md:flex-row;
 
               p {
-                @apply capitalize
-                md:ml-2;
+                @apply 
+                  flex
+                  min-w-max             
+                  md:ml-2;
 
                 &::after {
                   content: ",";

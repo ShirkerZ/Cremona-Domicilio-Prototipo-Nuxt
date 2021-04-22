@@ -59,10 +59,30 @@
                 "delivery_cost": "10"
             },
             "payment_options": [
-                "contanti",
-                "carta di credito",
-                "bancomat",
-                "bonifico"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": true
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": true
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>Contattaci telefonicamente o mandando un messaggio su whatsapp. Offriamo un servizio a domicilio per il recupero e successivamente per la consegna della vostra bicicletta.<br><br>I nostri servizi:",
@@ -174,12 +194,30 @@
                 "delivery_cost": "1,50"
             },
             "payment_options": [
-                "contanti",
-                "carta di credito",
-                "bancomat",
-                "bonifico",
-                "satispay",
-                "paypal"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": true
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": true
+                },
+                {
+                    "title": "Satispay",
+                    "mode": true
+                },
+                {
+                    "title": "PayPal",
+                    "mode": true
+                }
             ],
             "prepayment": "false",
             "description": "<p>Softworld è un negozio di vendita e riparazione PC e accessori. Contattaci telefonicamente o tramite whatsapp per ricevere direttamente a casa:</p>",
@@ -251,8 +289,30 @@
                 "delivery_cost": "4"
             },
             "payment_options": [
-                "contanti",
-                "carta di credito"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": false
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": false
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>Per consegna a Viadana spese di trasporto gratuite superiore a 35 euro.<br>Casalmaggiore gratuite con spesa superiore alle 18 euro</p>",
@@ -313,7 +373,32 @@
                 "minimum_expense": null,
                 "delivery_cost": null
             },
-            "payment_options": [],
+            "payment_options": [
+                {
+                    "title": "Contanti",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": false
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": false
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
+            ],
             "prepayment": "false",
             "description": "<p>Trattoria la Resca arriva direttamente a casa tua. Contattaci telefonicamente o con un messaggio su whatsapp per prenotare il tuo menù, perfetto per ogni occasione. Ti chiediamo di avvisarci entro le ore 20 del giorno precedente la consegna.<br><br>I nostri piatti esaltano le tipicità della zona, sono preparati in maniera tradizionale utilizzando solo prodotti selezionati e provenienti da fornitori storici e di fiducia.<br><br>Guarda i nostri suggerimenti per il Menù delle feste natalizie 2020:</p>",
             "gallery": [
@@ -388,10 +473,30 @@
                 "delivery_cost": "0"
             },
             "payment_options": [
-                "contanti",
-                "carta di credito",
-                "bancomat",
-                "satispay"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": true
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": false
+                },
+                {
+                    "title": "Satispay",
+                    "mode": true
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>Contattaci chiamandoci o mandando un messaggio su whatsapp per ricevere direttamente a casa i tramezzini che preferisci. Puoi anche prenotare i tramezzini direttamente dal sito internet.<br>Consigliamo di prenotare almeno un’ora prima della prevista consegna.<br>Le consegne avvengono dalle ore 11 alle ore 20:30.<br><br>Ugo Grill garantisce la qualità degli ingredienti e materie prime, a partire dalla maionese fatta in casa, e dal pane consegnato fresco più volte al giorno.<br><br>Puoi ordinare:</p>",
@@ -469,7 +574,30 @@
                 "delivery_cost": "0"
             },
             "payment_options": [
-                null
+                {
+                    "title": "Contanti",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": false
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": false
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>Contattaci mandando un messaggio su whatsapp o tramite chiamata, puoi scegliere tra il servizio a domicilio, il servizio prendi e porta via o il servizio al tavolo.<br>Birra selezionata, spillatura come in birrificio. Secondi piatti con carne di prima scelta direttamente dal nostro macellaio di fiducia Roby! Puoi ordinare:</p>",
@@ -542,7 +670,30 @@
                 "delivery_cost": "0"
             },
             "payment_options": [
-                null
+                {
+                    "title": "Contanti",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": false
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": false
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>Contattaci telefonicamente o sui canali social, sapremo consigliarti il capo adatto alle tue esigenze sportive. Da noi puoi trovare abbigliamento sportivo e accessori per:</p>",
@@ -639,7 +790,30 @@
                 "delivery_cost": "0"
             },
             "payment_options": [
-                "contanti"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": false
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": false
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>Agriturismo Le Campagnole porta a casa vostra i prodotti a km 0. Contattaci chiamandoci o inviando un messaggio su whatsapp.<br><br>Ti porteremo direttamente a casa:</p>",
@@ -723,9 +897,30 @@
                 "delivery_cost": "0"
             },
             "payment_options": [
-                "contanti",
-                "Bancomat",
-                "bonifico"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": true
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": true
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>Contattaci telefonicamente e richiedi i tuoi gomitoli, organizzeremo il giorno di consegna insieme.<br><br>Puoi ordinare:</p>",
@@ -794,9 +989,30 @@
                 "delivery_cost": "0"
             },
             "payment_options": [
-                "contanti",
-                "Bancomat",
-                "bonifico"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": true
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": true
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>Contattaci telefonicamente e richiedi i tuoi gomitoli, organizzeremo il giorno di consegna insieme.<br><br>Puoi ordinare:</p>",
@@ -885,9 +1101,30 @@
                 "delivery_cost": "3"
             },
             "payment_options": [
-                "Carta di credito",
-                "Carte prepagate",
-                "PayPal"
+                {
+                    "title": "Contanti",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": true
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": false
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": true
+                }
             ],
             "prepayment": "false",
             "description": "<p>Contattaci attraverso la pagina web. Prenotazione semplice e veloce attraverso un’app intuitiva e di facile utilizzo.<br>Offriamo la possibilità di contattarci in qualsiasi momento per chiarimenti e suggerimenti. Servizio di assistenza al cliente 7 su 7.<br><br>Nel nostro SHOP ONLINE potrete trovare:</p>",
@@ -962,9 +1199,30 @@
                 "delivery_cost": "0"
             },
             "payment_options": [
-                "Contanti",
-                "Bonifico",
-                "PayPal"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": false
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": true
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": true
+                }
             ],
             "prepayment": "false",
             "description": "<p>Contattaci e ordina i prodotti del nostro concept store: ecosostenibili, artigianali, biologici e naturali. Puoi ordinare per telefono, SMS, Whatsapp o email.<br>Concorderemo insieme la consegna che, nel comune di Cremona, non ha alcun costo.<br><br>Ecco alcuni dei nostri prodotti:</p>",
@@ -1052,9 +1310,30 @@
                 "delivery_cost": "10"
             },
             "payment_options": [
-                "Contanti",
-                "Bonifico",
-                "Assegno"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": false
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": true
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>Contattateci al numero indicato oppure via mail o mandandoci un messaggio su whatsapp e vi daremo le informazioni che volete.<br>Nell’arco dei tre giorni lavorativi arriviamo in consegna nel giorno e orario accordato.<br>Contattaci per avere informazioni sui nostri prodotti: vini fermi frizzanti e spumanti e su prenotazione birre, liquori, bevande.<br><br>La consegna è gratuita entro i 30 km, oltre il costo di consegna sarà di 10€.<br><br>Tra le nostre proposte:</p>",
@@ -1205,8 +1484,30 @@
                 "delivery_cost": "10"
             },
             "payment_options": [
-                "Contanti",
-                "Bonifico"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": false
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": true
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>Siamo a disposizione per il servizio a domicilio, chiamaci al numero telefonico o tramite email per i tuoi ordini.<br>Siamo fornitori di materiale per ufficio e non solo. Il servizio di consegna viene effettuato in tutti i comuni della provincia di Cremona e anche nei comuni di Pontevico, Quinzano d’Oglio (Bs) e per i comuni di Castelvetro Piacentino e Monticelli d’Ongina (Pc).</p>",
@@ -1365,10 +1666,30 @@
                 "delivery_cost": "Consegna a pagamento"
             },
             "payment_options": [
-                "Contanti",
-                "Carta",
-                "Bancomat",
-                "Bonifico"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": true
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": true
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>Contattaci telefonicamente per richiedere informazioni o consigli sui prodotti. Per i grandi elettrodomestici il servizio a domicilio prevede anche il ritiro dell’usato.<br><br>Il costo di consegna è a pagamento, ma la cifra dipende dal prodotto scelto.<br><br>É attivo il sito web in cui poter scegliere i seguenti prodotti:</p>",
@@ -1526,10 +1847,30 @@
                 "delivery_cost": "0"
             },
             "payment_options": [
-                "Contanti",
-                "Carta",
-                "Bancomat",
-                "Bonifico"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": true
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": true
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>Prenotare è semplicissimo, vi basta chiamare il numero e comunicare i prodotti da voi desiderati, l’indirizzo dove consegnare, data e ora di consegna.<br>Vi chiediamo un paio di giorni di preavviso.<br><br>Produciamo tutto esclusivamente su ordinazione per garantirvi il massimo della freschezza. Le nostre paste fresche sono vendute abbattute e congelate. Puoi ordinare:</p>",
@@ -1643,7 +1984,30 @@
                 "delivery_cost": "0"
             },
             "payment_options": [
-                "Contanti"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": false
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": false
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>Contattaci telefonicamente per ricevere la spesa a casa.<br><br>Ti consigliamo la consegna settimanale per evitare frequenti contatti.<br><br>La consegna avverrà al di fuori dell’abitazione nel rispetto delle misure previste.<br><br>Il Minimarket offre una scelta di prodotti tra</p>",
@@ -1740,8 +2104,30 @@
                 "delivery_cost": "0"
             },
             "payment_options": [
-                "Contanti",
-                "Satispay"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": false
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": false
+                },
+                {
+                    "title": "Satispay",
+                    "mode": true
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>Contattaci telefonicamente o tramite messaggio whatsapp o tramite e-mail per ricevere a casa vostra i nostri prodotti.<br>sConsulta la nostra vetrina social, siamo presenti anche su Instagram, potrai scegliere tra vari prodotti di:</p>",
@@ -1827,8 +2213,30 @@
                 "delivery_cost": "3"
             },
             "payment_options": [
-                "Contanti",
-                "Bonifco"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": true
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": false
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>Contattaci per ricevere direttamente a casa i nostri prodotti, potrai scegliere tra un vasto assortimento di tè ,caffè, cioccolati artigianali e tanto altro.<br><br>Costo di consegna 3€ in città, 5€ fuori città.<br><br>Chiamaci per effettuare i tuoi ordini.Le consegne verranno effettuate dalle 14.30 alle 15.30 e dalle 19.30 alle 20.30.<br><br></p>",
@@ -1925,8 +2333,30 @@
                 "delivery_cost": "0"
             },
             "payment_options": [
-                "Contanti",
-                "Assegno bancario"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": false
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": true
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>Contattaci per ricevere a casa la spesa.<br><br>Chiamaci al numero telefonico, per le consegne fuori città il costo della consegna verrà concordato insieme.<br><br>Tra i nostri prodotti puoi trovare:</p>",
@@ -1998,9 +2428,30 @@
                 "delivery_cost": "0"
             },
             "payment_options": [
-                "Bonifico",
-                "Bancomat",
-                "Carta di credito"
+                {
+                    "title": "Contanti",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": true
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": true
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>Le Associazioni La città dell’uomo e Lions Club, associazioni NO PROFIT, in stretto contatto con altre associazioni di Cremona sono a disposizione di cittadini privati per le consegne a domicilio dei beni di prima necessità.<br><br>I volontari si occuperanno della spesa al supermercato e in farmacia.<br><br>Contatta il numero telefonico per prenotare la spesa e i farmaci.</p>",
@@ -2058,7 +2509,32 @@
                 "minimum_expense": "0",
                 "delivery_cost": "0"
             },
-            "payment_options": null,
+            "payment_options": [
+                {
+                    "title": "Contanti",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": false
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": false
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
+            ],
             "prepayment": "false",
             "description": "<p>Per riparazioni di lenti o emergenze, nell’impossibilità di spostamento del cliente, offriamo il servizio del ritiro a casa e della riparazione.</p>",
             "gallery": null,
@@ -2148,7 +2624,30 @@
                 "delivery_cost": "3"
             },
             "payment_options": [
-                "Contanti"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": false
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": false
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>Contattaci tramite i numeri telefonici e ti consegneremo il tuo ordine a casa.<br><br>È possibile effettuare la prenotazione il giorno stesso della consegna chiamando dalle 8:00 alle 13:00.<br><br>Per gli ordini ricevuti dopo le 13:00 la consegna avverrà il giorno seguente.<br><br>Puoi ordinare mangimi e prodotti per la cura ed il benessere di:.<br><br><ul><li>Cani</li><br><li>Gatti</li><br><li>Roditori</li><br><li>Pesci</li><br><li>Uccelli</li><br><br>Tra i prodotti presenti in negozio puoi ordinare anche</p>",
@@ -2216,8 +2715,30 @@
                 "delivery_cost": "30"
             },
             "payment_options": [
-                "Contanti",
-                "Carta e Bancomat"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": true
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": false
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>Contattaci chiamandoci al numero fisso o mandando un messaggio su whatsapp. Offriamo un servizio a domicilio per il recupero e successivamente consegna della moto, scooter o Vespa.<br>Per qualsiasi necessità, informazioni e preventivi contattarci al numero telefonico.Operiamo a Cremona e dintorni.<br><br>I nostri servizi:</p>",
@@ -2326,7 +2847,30 @@
                 "delivery_cost": "0"
             },
             "payment_options": [
-                "Contanti"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": false
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": false
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>La Pescheria Duomo è sempre operativa per voi , mangiare pesce é importante per mantenerci in forma e aumentare le difese immunitarie.<br><br>Contattaci ai numeri telefonici e concorderemo insieme la consegna.<br><br>Tra i prodotti che puoi ordinare:</p>",
@@ -2442,8 +2986,30 @@
                 "delivery_cost": "0"
             },
             "payment_options": [
-                "Contanti",
-                "Bonifco"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": true
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": false
+                },
+                {
+                    "title": "Satispay",
+                    "mode": false
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>Chiama il contatto telefonico dalle 15.30 alle 18.30, oppure manda un messaggio su facebook alla pagina del negozio.</p>",
@@ -2506,8 +3072,30 @@
                 "delivery_cost": "0"
             },
             "payment_options": [
-                "Contanti",
-                "Satispay"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": false
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": false
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": false
+                },
+                {
+                    "title": "Satispay",
+                    "mode": true
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>Contattaci al numero telefonico per ricevere la tua spesa a domicilio.<br><br>Non indichiamo un orario massimo per chiamare, ma se l’ordine arriverà nel tardo pomeriggio la spesa sarà consegnata il giorno seguente.<br><br></p>",
@@ -2577,9 +3165,30 @@
                 "delivery_cost": "3"
             },
             "payment_options": [
-                "Carta di credito",
-                "Satispay",
-                "Contanti"
+                {
+                    "title": "Contanti",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Credito",
+                    "mode": true
+                },
+                {
+                    "title": "Carta di Debito",
+                    "mode": false
+                },
+                {
+                    "title": "Bonifico Bancario",
+                    "mode": false
+                },
+                {
+                    "title": "Satispay",
+                    "mode": true
+                },
+                {
+                    "title": "PayPal",
+                    "mode": false
+                }
             ],
             "prepayment": "false",
             "description": "<p>PIZZIKOTTO è una pizzeria e non solo...<br><br>Vasto menù di pizze: 3 tipologie differenti di impasto (sottile - medio - alto), patatine fritte, dessert, bevande.<br><br>Contattaci telefonicamente per fare i tuoi ordini, oppure scegli dal sito web ciò che fa per te e concludi la prentazione online.<br>La consegna avviene tutti i giorni dalle 18:00 alle 22:00.</p>",

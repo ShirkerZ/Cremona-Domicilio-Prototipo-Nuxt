@@ -121,9 +121,15 @@ export const mutations = {
     //  Change selected municipality
     changeMunicipality(state) {
         if ($nuxt.context.query.municipality) {
-            state.selectedMunicipality = state.zones.find(comune => comune.slug === $nuxt.context.query.municipality)
-            localStorage.setItem("municipality", state.selectedMunicipality.slug)
-            console.log("Selected Municipality changed to:", state.selectedMunicipality.slug)
+            if (state.zones.length) {
+                state.selectedMunicipality = state.zones.find(comune => comune.slug === $nuxt.context.query.municipality)
+                localStorage.setItem("municipality", state.selectedMunicipality.slug)
+            } else {
+                setTimeout(() => {
+                    state.selectedMunicipality = state.zones.find(comune => comune.slug === $nuxt.context.query.municipality)
+                    localStorage.setItem("municipality", state.selectedMunicipality.slug)
+                }, 1000)
+            }
         } else {
             console.log('Nope')
         }

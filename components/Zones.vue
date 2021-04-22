@@ -59,7 +59,6 @@ export default {
     return {
       selected: "",
       isOpen: false,
-      savedMunicipality: "",
     };
   },
 
@@ -103,6 +102,13 @@ export default {
         localStorage.getItem("municipality")
       );
     }
+
+    //  Change municipality on manual url change
+    this.$nextTick(() => {
+      if (this.$nuxt.$route.query.municipality) {
+        this.$store.commit("changeMunicipality");
+      }
+    });
   },
 
   watch: {
