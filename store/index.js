@@ -86,6 +86,24 @@ export const getters = {
 
     //  Filter stores by municipality
     getStoreByMunicipality: state => payload => {
+        // let storesByMunicipality = state.stores.filter(store => (store.delivery.zone.municipality.filter(el => el.slug == payload)).length > 0)
+        // let categoriesArray = []
+        // storesByMunicipality.forEach(store => {
+        //     store.category.forEach(el => categoriesArray.push(el))
+        // });
+
+        // let seen = new Set()
+        // categoriesArray.some(function(el, index){
+        //     if(seen.size === seen.add(el.slug).size){
+        //         console.log("Duplicate found: ", el.slug, index)
+        //         categoriesArray.splice(index, 1)
+        //     }
+        // })
+        
+        // console.log("Categories", state.categories.length)
+        // categoriesArray.forEach((el, index) => console.log(el.slug, index))
+        // console.log("Test", categoriesArray)
+
         if (payload === "all-zones") {
             return state.stores
         }

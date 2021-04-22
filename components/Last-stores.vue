@@ -304,7 +304,6 @@ export default {
       py-8
       px-4
       w-screen
-      flex
       flex-col
       md:w-full
       md:grid
